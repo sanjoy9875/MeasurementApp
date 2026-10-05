@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">MeasureAR</string>
+    <string name="measure_screen_title">AR Measure</string>
+    <string name="mode_length">Length</string>
+    <string name="mode_area">Area</string>
+    <string name="mode_diameter">Diameter</string>
+    <string name="mode_height">Height</string>
+    <string name="length_result">Length: %1$s</string>
+    <string name="action_reset">Reset</string>
+    <string name="coming_soon_message">This measurement mode will be available in a future update.</string>
+    <string name="instruction_detect_surfaces">Move your phone slowly to detect surfaces.</string>
+    <string name="instruction_tap_first_point">Tap the first point on a detected surface (move phone until surfaces are found).</string>
+    <string name="instruction_point_not_on_surface">Could not place point. Aim at a flat surface and move the phone slowly, then tap again.</string>
+    <string name="instruction_tap_second_point">Tap the second point to measure length.</string>
+    <string name="instruction_measurement_complete">Length measured. Tap reset to measure again.</string>
+    <string name="instruction_move_device">Move your device slowly to improve tracking.</string>
+    <string name="instruction_ar_stopped">AR session stopped. Restart the app if tracking does not recover.</string>
+    <string name="instruction_ar_unsupported">This device does not support ARCore.</string>
+    <string name="instruction_camera_permission">Camera permission is required to measure objects in AR.</string>
+    <string name="action_grant_camera">Grant camera access</string>
 </resources>
